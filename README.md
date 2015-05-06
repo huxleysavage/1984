@@ -8,7 +8,7 @@ Petit condensé à l'usage du plus grand nombre sur les bonnes pratiques permett
 > insérer ce [bloc de configuration](https://zerobin.net/?eec27abbef9d43d1#wOvVGL1fy5juvYb99Ge4OoBI5juFbPL189ZVPLiUQdw=) pour ssh puis :
 > `git clone huxleysavage:meilleurdesmondes/1984.git`
 > 
-> Il est également possible de rejoindre le groupe [meilleurdesmondes](https://github.com/meilleurdesmondes) à partir de là il est possible d'éditer les fichers en ligne directement.
+> Il est également possible de rejoindre le groupe [meilleurdesmondes](https://github.com/meilleurdesmondes) en ajoutant un nom d'utilisateur Github dans [ce document](https://lite6.framapad.org/p/meilleurdesmondes). Une fois ajouté il est possible d'éditer les fichers en ligne directement.
 
 ## Système d'exploitation "portable" (live)
 
