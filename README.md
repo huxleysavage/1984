@@ -27,6 +27,10 @@ Linux Tail [[Site officiel](https://tails.boum.org/index.fr.html)]
 
 ### Chiffrer sa messagerie instantané
 
+#### Réseaux dédiés
+* Telegram [[Site officiel](https://www.telegram.org/)]
+
 ## Téléphonie mobile
 
+* Whisper Systems [[Site officiel](https://www.whispersystems.org/)]
 * Se prémunir des IMSI-Catcher : http://korben.info/detecter-imsi-catcher.html
