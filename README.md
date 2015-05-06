@@ -15,7 +15,7 @@ Linux Tail [[Site officiel](https://tails.boum.org/index.fr.html)]
 * Tor [[Site officiel](https://torproject.org/)]
 
 ### Chiffrer ses emails (contenus uniquement)
-* Enigmail
+* Enigmail [[Site officiel](https://www.enigmail.net/home/index.php)]
 
 ### Chiffrer sa messagerie instantané
 
